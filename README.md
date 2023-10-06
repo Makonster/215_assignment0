@@ -4,4 +4,4 @@ Makana Paige
 - goal 2: Get used to working with others on coding
 - goal 3: Get used to using an onlise data hub 
 <br>
-My favorite fall snack is anything flavored with pumpkin
+My favorite fall snack is anything pumpkin flavored 
